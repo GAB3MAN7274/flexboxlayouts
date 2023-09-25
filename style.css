@@ -50,6 +50,20 @@ align-items: stretch;
     flex: 1;
 }
 
+.example3 .child {
+    flex:1;
+}
+
+.purple {
+    background-color: purple;
+}
+.orange {
+    background-color: orange;
+}
+
+
+
+
 
 
 
